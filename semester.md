@@ -13,6 +13,9 @@
   
 ### Signale und Systeme
 
+- nicht-periodische Signale
+- periodische Signale
+
 ### Mathematik 3
 
 - Fouriertransformation
