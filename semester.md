@@ -9,7 +9,7 @@
 - Pointer
 - Strings
 
-### Software-Technik
+### Software-Technik-ist-schwer-aber-cool
 
 - Einführung in die Software-Technik
 - Überblick Vorgehensmodelle
