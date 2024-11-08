@@ -11,10 +11,10 @@
 
 ### Software-Technik
 
-- Einführung
-- Vorgehensmodelle
+- Einführung in die Software-Technik
+- Überblick Vorgehensmodelle
 - Agile Softwareentwicklung
-- Requirements Engineering
+- Requirements Engineering/Business Analyse
   
 ### Signale und Systeme
 
