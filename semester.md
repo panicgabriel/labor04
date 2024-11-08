@@ -4,6 +4,11 @@
 
 ## Module
 
+## Informatik 2
+
+- Pointer
+- Strings
+
 ### Software-Technik
 
 - Einführung
