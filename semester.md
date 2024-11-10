@@ -4,7 +4,7 @@
 
 ## Module
 
-### Kraftfahrzeuge 1/2
+### Kraftfahrzeuge 1
 
 - Fahrdynamik
 
