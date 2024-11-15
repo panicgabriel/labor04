@@ -33,4 +33,8 @@
   
 ### Mein erster Push
 
-- 15.11.24
+- 15.11.2024
+
+### Mein erster Pull
+
+- 15.11.2024
