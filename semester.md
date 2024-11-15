@@ -10,7 +10,7 @@
 
 ## Informatik 2
 
-- werde ich bestehen
+- werde ich bestehen ( ich muss )
 - Pointer
 - Strings
 
