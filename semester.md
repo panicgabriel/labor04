@@ -10,6 +10,7 @@
 
 ## Informatik 2
 
+- werde ich bestehen
 - Pointer
 - Strings
 
